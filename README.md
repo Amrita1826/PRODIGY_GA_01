@@ -23,6 +23,6 @@ The implementation is done in *Google Colab*, making it easy to run without loca
 NYU_GPT2_FineTuning_Task1.ipynb   # Main notebook
 README.md                         # Project documentation
 
----
-## Auhtor
-Amrita Khosla
+
+
+
